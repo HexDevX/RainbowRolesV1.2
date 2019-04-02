@@ -1,4 +1,4 @@
-// invite = https://discordapp.com/api/oauth2/authorize?client_id=562366438640320533&scope=bot&permissions=8
+// invite = https://discordapp.com/api/oauth2/authorize?client_id=ID BOT&scope=bot&permissions=8
 
 const Discord = require("discord.js");
 const client = new Discord.Client();
